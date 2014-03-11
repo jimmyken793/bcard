@@ -49,3 +49,4 @@ gem "cancan"
 gem "devise"
 gem "thin"
 gem "angularjs-rails"
+gem 'bootstrap-sass'
